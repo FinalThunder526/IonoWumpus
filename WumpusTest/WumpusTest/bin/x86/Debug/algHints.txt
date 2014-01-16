@@ -1,0 +1,2 @@
+The number of asymptotes of a graph is the number of values that make the denominator zero.
+If the power of x in the numerator is greater than that in the denominator, then the limit (x->infinity)

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IonoWumpus", "WumpusTest\WumpusTest\IonoWumpus.csproj", "{EB71970E-39E4-4699-9083-746D9A26D274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WumpusTestContent", "WumpusTest\WumpusTestContent\WumpusTestContent.contentproj", "{BD3FACA0-5FC3-4E5E-914E-D6AD5929161F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB71970E-39E4-4699-9083-746D9A26D274}.Debug|x86.ActiveCfg = Debug|x86
+		{EB71970E-39E4-4699-9083-746D9A26D274}.Debug|x86.Build.0 = Debug|x86
+		{EB71970E-39E4-4699-9083-746D9A26D274}.Release|x86.ActiveCfg = Release|x86
+		{EB71970E-39E4-4699-9083-746D9A26D274}.Release|x86.Build.0 = Release|x86
+		{BD3FACA0-5FC3-4E5E-914E-D6AD5929161F}.Debug|x86.ActiveCfg = Debug|x86
+		{BD3FACA0-5FC3-4E5E-914E-D6AD5929161F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
